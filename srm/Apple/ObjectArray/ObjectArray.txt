@@ -1,0 +1,7 @@
+class Value{
+  int i;
+}
+
+public class ObjectArray {
+  public static void main(String[] args){
+    Value[] av = new 
